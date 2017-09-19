@@ -45,16 +45,6 @@ paper2:
 
 
 ```
-paper2:
-   type: project
-   type: report
-   author: 
-   - Gregor von Laszewski
-   hid:
-   - 000
-   title: Benchmarking a BigData Docker deployment
-   abstract: This paper showcases tis and that and the other 
-   url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
-   type: latex
+
 ```
    
