@@ -1,5 +1,7 @@
  Logistic
+ 
  08/23/17   Read the entire class overview section
+ 
  08/28/17  Created Chameleon Account, Github Account 
 
 
