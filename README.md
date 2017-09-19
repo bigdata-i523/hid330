@@ -18,14 +18,11 @@ owner:
 ```
 paper1: 
    author: 
-   -Janaki Mudvari Khatiwada
-   
+   - Janaki Mudvari Khatiwada
    hid:
    - 330
-   
    title: Big Data Applications in Improving Patient Care
    abstract: Will  update by tuesday.
-   
    status: in progress
 ```
    
@@ -44,7 +41,4 @@ paper2:
 ```
 
 
-```
-
-```
    
