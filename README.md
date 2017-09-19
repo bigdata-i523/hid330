@@ -7,47 +7,42 @@
 # Owner
 
 ```
-owner:
-    hid: 000
-    name: Gregor von Laszewski
-    url: https://github.com/bigdata-i523/sample-hid000
+owner: 
+    hid: 330
+    name: Janaki Mudvari Khatiwada
+    url: https://github.com/bigdata-i523/sample-hid330
 ```
 
 # Paper 1
 
 ```
-paper1:
+paper1: 
    author: 
-   - Gregor von Laszewski
-   - Fugang Wang
+   -Janaki Mudvari Khatiwada
+   
    hid:
-   - 000
-   - 001
-   title: This is my paper about xyz
-   abstract: This paper showcases this and that and the other
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
-   type: latex
+   - 330
+   
+   title: Big Data Applications in Improving Patient Care
+   abstract: Will  update by tuesday.
+   
    status: in progress
 ```
    
 # Paper 2
 
 ```
-paper2:
+paper2: 
    author: 
-   - Gregor von Laszewski
+   - Janaki Mudvari Lhatiwada
    hid:
    - 000
-   title: This is my paper about the other abc
-   abstract: This paper showcases tis and that and the other in regards to abc
-   url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
-   type: word
+   title: Not yet decided, planning to choose a topic that i can use also for term project.
+   abstract: 
+   url:    
+   type: 
 ```
 
-# Project 
-
-We will assign new pids for you when we approve the project and reports   
-Just use one type and delete the line with 
 
 ```
 paper2:
