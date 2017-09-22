@@ -31,7 +31,7 @@ paper1:
 ```
 paper2: 
    author: 
-   - Janaki Mudvari Lhatiwada
+   - Janaki Mudvari Khatiwada
    hid:
    - 330
    title: Not yet decided, planning to choose a topic that i can use also for term project.
