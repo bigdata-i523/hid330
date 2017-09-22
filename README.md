@@ -36,7 +36,6 @@ paper2:
    - 330
    title: Not yet decided, planning to choose a topic that i can use also for term project.
    abstract: 
-   url: TBD
    type: 
 ```
 
