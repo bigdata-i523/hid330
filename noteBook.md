@@ -28,6 +28,8 @@ Writing
  09/11/17  Attended Zoom meeting
  09/18/17  Attended Zooom meeting
  
+ 09/21/17 Installed Jabref and tried to create a project on Sharelatex(didn't work)
+ 
  
  
  
