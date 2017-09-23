@@ -22,10 +22,11 @@ paper1:
    hid:
    - 330
    title: Big Data Applications in Improving Patient Care
-   
-   abstract: This paper will explore how service providers in health-care industries use data generated when patients provide 
-   information about their family history, medical history, food habit, exercise habit
-   
+   abstract: >
+       This paper will explore how service providers in health-care
+       industries use data generated when patients provide information
+       about their family history, medical history, food habit, exercise
+       habit
    status: in progress
 ```
    
