@@ -1,21 +1,15 @@
 # hid330
-# Comments
-
-* Mind the ```quotes and do not forget them```
- 
-
 # Owner
 
 ```
 owner: 
     hid: 330
-    name: Janaki Mudvari Khatiwada
+    Janaki Mudvari Khatiwada
     url: https://github.com/bigdata-i523/hid330
 ```
 
 # Paper 1
 
-```
 paper1: 
    author: 
    - Janaki Mudvari Khatiwada
@@ -27,6 +21,8 @@ paper1:
        industries use data generated when patients provide information
        about their family history, medical history, food habit, exercise
        habit
+   url: https://github.com/bigdata-i523/hid330/paper1/report.pdf
+   type: latex
    status: in progress
 ```
    
