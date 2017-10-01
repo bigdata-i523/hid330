@@ -24,6 +24,7 @@ paper1:
    url: https://github.com/bigdata-i523/hid330/paper1/report.pdf
    type: latex
    status: in progress
+   chapter: Health
 ```
    
 # Paper 2
