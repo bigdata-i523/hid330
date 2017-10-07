@@ -29,6 +29,7 @@
  * 09/11/17  Attended Zoom meeting
  * 09/18/17  Attended Zooom meeting
  * 09/25/17  Attended Online Session
+ * 10/04/17 Attended Zoom meeting
  
  
  
