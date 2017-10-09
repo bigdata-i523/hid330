@@ -23,7 +23,7 @@ paper1:
        food habit, exercise habit.
    url: https://github.com/bigdata-i523/hid330/paper1/report.pdf
    type: latex
-   status: Completed 100%
+   status: 100%
    chapter: Health
 ```
    
