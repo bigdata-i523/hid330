@@ -14,6 +14,7 @@
 * 10/12/17  Watched video on Information Retrieval Leading to Web Search
 * 10/12/17  Watched video on History behind Web Search
 * 10/12/17  Watched video on Key Principles behind Web Search
+* 10/13/17  Watched video on recommender system 1
 
 # Practice 
 
