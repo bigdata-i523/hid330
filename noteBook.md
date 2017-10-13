@@ -12,6 +12,7 @@
 * 10/12/17  watched video on Web Search and Text Mining Part 1
 * 10/12/17  Watched video on recommender systems 2
 * 10/12/17  Watched video on Information Retrieval Leading to Web Search
+* 10/12/17 Watched video on History behind Web Search
 
 # Practice 
 
