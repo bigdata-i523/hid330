@@ -9,6 +9,9 @@
 
 * 08/24/17  Read and watched all videso in the Theory Introduction section
 * 08/25/17  Watched videos on Overview of DataScience big data case survey and health Informatics case Survey
+* 10/12/17  watched video on Web Search and Text Mining Part 1
+* 10/12/17  Watched video on recommender systems 2
+* 10/12/17  Watched video on Information Retrieval Leading to Web Search
 
 # Practice 
 
