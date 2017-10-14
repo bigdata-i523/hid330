@@ -27,7 +27,7 @@
  * 09/18/17 Watched tutorial videos on Jabref and Sharelatex
  * 09/21/17 Installed Jabref and created a project on Sharelatex
  * 09/29/17 Paper 1 Completed in Sharelatex
- 
+ * 10/1317  Assignment paper Review completed
  
  
  # Online Meeting
