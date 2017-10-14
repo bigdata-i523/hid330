@@ -22,7 +22,7 @@ paper1:
        Patient care is the main objective of healthcare organizations. Getting best possible care in 
        terms of costs and service outcome are patients' expectations.
        
-   url: https://github.com/bigdata-i523/hid330/paper1/paper1.pdf
+   url: https://github.com/bigdata-i523/hid330/paper1/report.pdf
    type: latex
    status: 100%
    chapter: Health
