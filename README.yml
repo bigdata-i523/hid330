@@ -19,20 +19,20 @@ paper1:
     type: latex
     url: https://github.com/bigdata-i523/hid330/paper1/report.pdf
 paper2: 
-  abstract: developing
-  author: 
-    - "Janaki Mudvari Khatiwada"
-  chapter: TBD
-  hid: 
-    - 330
-  status: ~
-  title: "MQTT for Big Data and Edge Computing"
-  type: latex
-  url: "https://github.com/bigdata-i523/hid330/paper2/report.pdf"
+    abstract: developing
+    author: 
+        - Janaki Mudvari Khatiwada
+    chapter: TBD
+    hid: 
+       - 330
+   status: 
+   title: "MQTT for Big Data and Edge Computing"
+   type: latex
+   url: https://github.com/bigdata-i523/hid330/paper2/report.pdf
 project: 
-  abstract: null
-  author: 
-    - "Janaki Mudvari Khatiwada"
-  hid: 
+   abstract: null
+   author: 
+       - Janaki Mudvari Khatiwada
+   hid: 
     - 330
-  title: TBD
+   title: TBD
