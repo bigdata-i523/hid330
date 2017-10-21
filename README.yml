@@ -19,7 +19,11 @@ paper1:
     type: latex
     url: https://github.com/bigdata-i523/hid330/paper1/report.pdf
 paper2: 
-    abstract: developing
+    abstract: >
+        With increasing use of sensors and smart devices which generate real time data and 
+        opt for immediate output, immediate meassage delivery and publishing result is a must.
+        This requires conncetion among sensors and near end devices. MQTT establishes the
+        connection among participating clients.
     author: 
         - Janaki Mudvari Khatiwada
     chapter: TBD
