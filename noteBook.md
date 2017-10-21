@@ -19,6 +19,8 @@
 # Practice 
 
  * 08/29/17  Installed Python 2 and Python 3
+ * 10/19/17  Installed Virtual Box, Ubuntu
+ * 10/19/17  Set up Virtual Machine
   
  
 
@@ -35,7 +37,9 @@
  * 09/11/17  Attended Zoom meeting
  * 09/18/17  Attended Zooom meeting
  * 09/25/17  Attended Online Session
- * 10/04/17 Attended Zoom meeting
+ * 10/04/17  Attended Zoom meeting
+ * 10/18/17  Attended Zoom Meeting
+ * 10/18/17  Attended Zoom Meeting
  
  
  
