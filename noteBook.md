@@ -15,6 +15,8 @@
 * 10/12/17  Watched video on History behind Web Search
 * 10/12/17  Watched video on Key Principles behind Web Search
 * 10/13/17  Watched video on recommender system 1
+* 10/25/17  Watched video on Big Data and HEalthcare
+* 10/25/17  Watched video on Proteomics and Information Visualization
 
 # Practice 
 
@@ -40,6 +42,7 @@
  * 10/04/17  Attended Zoom meeting
  * 10/18/17  Attended Zoom Meeting
  * 10/18/17  Attended Zoom Meeting
+ * 10/23/17  Attended Zoom Meeting
  
  
  
