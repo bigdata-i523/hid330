@@ -31,7 +31,8 @@
  * 09/18/17 Watched tutorial videos on Jabref and Sharelatex
  * 09/21/17 Installed Jabref and created a project on Sharelatex
  * 09/29/17 Paper 1 Completed in Sharelatex
- * 10/1317  Assignment paper Review completed
+ * 10/13/17  Assignment paper Review completed
+ * 11/01/17  Working on paper 2
  
  
  # Online Meeting
@@ -43,7 +44,7 @@
  * 10/18/17  Attended Zoom Meeting
  * 10/18/17  Attended Zoom Meeting
  * 10/23/17  Attended Zoom Meeting
- 
+ * 10/30/17  Attended Zoom Meeting
  
  
  
