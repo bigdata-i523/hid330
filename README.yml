@@ -27,13 +27,13 @@ paper2:
         connection among participating clients.
     author: 
         - Janaki Mudvari Khatiwada
-    chapter: TBD
+    chapter: Technology
     hid: 
        - 330
-    status: 50%
+    status: 60%
     title: "MQTT for Big Data and Edge Computing"
     type: latex
-    url: https://github.com/bigdata-i523/hid330/paper2/report.tex
+    url: https://github.com/bigdata-i523/hid330/paper2/format/i523.tex
 project: 
      abstract: null
      author: 
