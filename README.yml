@@ -18,7 +18,8 @@ paper1:
     title: Big data in Improving Patient Care
     type: latex
     url: https://github.com/bigdata-i523/hid330/paper1/report.pdf
-paper2: 
+paper2:
+    review: Nov 6 2017
     abstract: >
         With increasing use of sensors and smart devices which generate real time data and 
         opt for immediate output, immediate meassage delivery and publishing result is a must.
