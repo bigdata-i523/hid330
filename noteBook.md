@@ -15,9 +15,14 @@
 * 10/12/17  Watched video on History behind Web Search
 * 10/12/17  Watched video on Key Principles behind Web Search
 * 10/13/17  Watched video on recommender system 1
-* 10/25/17  Watched video on Big Data and HEalthcare
+* 10/25/17  Watched video on Big Data and Healthcare
 * 10/25/17  Watched video on Proteomics and Information Visualization
 * 11/10/17  Watched video on Web Search History
+* 11/10/17  Watched video on Search Engine
+* 11/10/17  Watched video on TF IDF and Probaliastic Model
+* 11/10/17  Watched video on Web Crawling and doc
+* 11/10/17  Watched video on IU X informaticsunit 4 lesson 1 Data Deluge Science and Research 1
+
 
 # Practice 
 
@@ -33,7 +38,7 @@
  * 09/21/17 Installed Jabref and created a project on Sharelatex
  * 09/29/17 Paper 1 Completed in Sharelatex
  * 10/13/17  Assignment paper Review completed
- * 11/01/17  Working on paper 2
+ * 11/06/17 Paper 2 completed 
  
  
  # Online Meeting
@@ -46,6 +51,8 @@
  * 10/18/17  Attended Zoom Meeting
  * 10/23/17  Attended Zoom Meeting
  * 10/30/17  Attended Zoom Meeting
+ * 11/06/17  Attended Zoom Meeting
+ 
  
  
  
