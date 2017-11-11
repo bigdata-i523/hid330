@@ -17,6 +17,7 @@
 * 10/13/17  Watched video on recommender system 1
 * 10/25/17  Watched video on Big Data and HEalthcare
 * 10/25/17  Watched video on Proteomics and Information Visualization
+* 11/10/17  Watched video on Web Search History
 
 # Practice 
 
