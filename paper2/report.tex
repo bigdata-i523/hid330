@@ -20,9 +20,6 @@
 
 
 
-% The default list of authors is too long for headers}
-\renewcommand{\shortauthors}{G. v. Laszewski}
-
 
 \begin{abstract}
 With increasing use of sensors and smart devices or internet of things that generate real time data and opt for immediate output, immediate message delivery and reliable result is a must. This requires reliable efficient connection among sensors and near end devices. MQTT protocol  establishes the connection among participating clients. Traditionally connected  devices and industrial automation equipment are  connected to cloud. Data flow between cloud services and internet of things may not be reliable and efficient all the time. With growing number of smart devices, internet of things and their applications, communications between them and cloud services need reliable internet connection with no data limitations. Edge computing, data flow between near end devices, under MQTT can be a solution to improve latency of data flow,  better scalability and taking load off on local servers.
@@ -42,7 +39,7 @@ MQTT, MQ telemetry transport protocol is an open source, a light--weight  reliab
 Why are we discussing Edge computing and MQTT? While MQTT was in use since 1999, it gained its significance recently. As with the development of IoTs and their newer applications, MQTT is seen as a light weight open source protocol that can establish a connection between server and its near end devices and help in quick message delivery. The number of connected devices are expected to reach 50 billion by 2020, from 500 million in 2003 to 12.5 billion in 2010. These sensors and devices generate huge volume of data and send to the cloud in a great velocity. This big data transmission to the cloud, which is a centralized data center, puts all the computation load on cloud and result in latent message transformation. Most of the applications in these smart devices need real time analysis and immediate message delivery on the topic they subscribe. Edge computing basically allows decentralization of data flow between these devices, servers and users. Further, edge computing significantly takes load off of cloud computing. Edge computing architecture facilitates data transmission between sensors and connected devices to a nearby edge computing device, ``like a gateway device that processes or analyzes the data locally, rather than sending it to the cloud or a remote data center'' \cite{www-rtinsights-com}. A gateway could be a server or a feature of the router or a computer that helps connect devices with the data--center network.
 Figure\ref{p:Pub/Sub MQTT} below gives a general idea of message transmission through MQTT protoclo. In this figure HiveMQ is an open source MQTT broker. 
 
-\begin{figure}
+\begin{figure}[htb]
 \includegraphics[width=1.0\columnwidth]{images/pubsubmqtt.png}
 \caption{Pub/Sub MQTT}\label{p:Pub/Sub MQTT}
 \end{figure}
@@ -145,6 +142,7 @@ Topics are not permanent and are created by publishing and subscribing client.
 A client can publish to only one topic.
 To publish a message to two topics message has to be published twice.
 Configurations can go wrong very easily. Since edge computing requires machine to machine communication at the edge they are prone to get compromised by hackers.So, security is a great concern. While scalability is one of the benefits of use of MQTT broker in edge computing, it is also a challenge when millions of connections are involved. This might need a group of distributed broker nodes. Edge devices have lesser capabilities for data analysis, so there might be latency since data has to be transmitted to the cloud service. 
+
 
 
 \begin{figure}[htb]
