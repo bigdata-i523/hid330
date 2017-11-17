@@ -69,7 +69,13 @@ Another use case of MQQT protocol for big data and edge computing is environment
 
 
 \section{MQTT Work--Flow}
-The work flow of MQTT starts by establishing connection of a broker, which is a local server, to a client. Clients are devices connected to a broker. There is at least one MQTT client responsible for publishing a message and second client which receives the message has to be subscribed to the topic in which first client is publishing a message. A message can be a data or command. Topic is a string separated by slashes. For example, ``home/kitchen/light1'' is a topic. Then client can also subscribe to a topic to a different device through a different command. MQTT client and server communicate through different control packets as shown in figure below.
+The work flow of MQTT starts by establishing connection of a broker, which is a local server, to a client. Clients are devices connected to a broker. There is at least one MQTT client responsible for publishing a message and second client which receives the message has to be subscribed to the topic in which first client is publishing a message. A message can be a data or command. Topic is a string separated by slashes. For example, ``home/kitchen/light1'' is a topic. Then client can also subscribe to a topic to a different device through a different command. MQTT client and server communicate through different control packets as shown in figure \ref{p:Publish Subscribe Architecture}.
+
+\begin{figure}[htb]
+\includegraphics[width=1.0\columnwidth]{images/MQTT.png}
+\caption{MQTT publish Subscribe Architecture}\label{p:Publish Subscribe Architecture}
+\end{figure}
+
 
 MQTT broker receives all the messages, filters them and publishes them to each subscribed clients. one of the important feature of this protocol is it decouples devices and applications before transmitting messages or data. Each MQTT message contains a topic, payload which may be in any format like binary data or plain text or xml. Quality of service is another feature of MQTT. It has three standard quality of services (QoS) for message delivery; 0, 1, 2. QoS 0 means message is delivered at most once, QoS 1 means message is delivered at least once, so duplicate message is possible and QoS 2 means message is delivered exactly once and there will be no duplicates but message is guaranteed.
 
@@ -142,7 +148,7 @@ Configurations can go wrong very easily. Since edge computing requires machine t
 
 
 \begin{figure}[htb]
-\TODO{IMAGE NOT FOUND}
+\done{IMAGE NOT FOUND}
 % \includegraphics[width=1.0\columnwidth]{images/MQTT.png}
 \caption{MQTT Publish Subscribe Architecture}
 
