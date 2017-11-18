@@ -21,10 +21,16 @@ paper1:
 paper2:
     review: Nov 6 2017
     abstract: >
-        With increasing use of sensors and smart devices which generate real time data and 
-        opt for immediate output, immediate meassage delivery and publishing result is a must.
-        This requires conncetion among sensors and near end devices. MQTT establishes the
-        connection among participating clients.
+        With increasing use of sensors and smart devices or internet of things that generate
+        real time data and opt for immediate output, immediate message delivery and reliable result
+        is a must. This requires reliable efficient connection among sensors and near end devices.
+        MQTT protocol  establishes the connection among participating clients. Traditionally connected
+        devices and industrial automation equipment are  connected to cloud. Data flow between cloud
+        services and internet of things may not be reliable and efficient all the time.
+        With growing number of smart devices, internet of things and their applications, communications
+        between them and cloud services need reliable internet connection with no data limitations.
+        Edge computing, data flow between near end devices, under MQTT can be a solution to improve
+        latency of data flow,  better scalability and taking load off on local servers.
     author: 
         - Janaki Mudvari Khatiwada
     chapter: Technology
@@ -38,6 +44,11 @@ project:
      abstract: null
      author: 
        - Janaki Mudvari Khatiwada
+     chapter:   
      hid: 
        - 330
-     title: TBD
+     status: in progress  
+     title: Big Data Analytics in Sudying Obesity Trend in Indiana Counties
+     type: latex
+     url:
+     
