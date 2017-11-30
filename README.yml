@@ -41,7 +41,7 @@ paper2:
     type: latex
     url: https://github.com/bigdata-i523/hid330/paper2/report.tex
 project: 
-     abstract: >
+    abstract: >
         Outdoor air pollution is one of the risk factors of public health. Air pollution adds burden to public health.
         Both developing and developed world use new technology and expertise to monitor outdoor air quality.
         United States Environmental Protection Agency (USEPA) collects outdoor air quality data from state, local
