@@ -42,22 +42,17 @@ paper2:
     url: https://github.com/bigdata-i523/hid330/paper2/report.tex
 project: 
     abstract: >
-        Outdoor air pollution is one of the risk factors of public health. Air pollution adds burden to public health.
-        Both developing and developed world use new technology and expertise to monitor outdoor air quality.
-        United States Environmental Protection Agency (USEPA) collects outdoor air quality data from state, local
-        and tribal agencies through outdoor air quality monitors across the country. The data get collected into the Air
-        Quality System (AQS) database. This data can be used for variety of purposes such as education, research
-        and regulatory. Data from this data--mart is available for different time--series: hourly, daily, weekly, monthly
-        and yearly. It gives us a real picture of outdoor air quality and measurements of pollutants present in the air in
-        a particular time period. The data can be used for visualizations to see the trend of air pollutants at different
-        time periods in a day or a season  and can also be combined with emissions data for comparative study. Since, air
-        quality is vital for public health and environmental health, air quality monitoring possess great significance.
+        Outdoor air pollution is one of the risk factors of public health. Air pollution adds burden to public health. Both developing and developed world use new technology and expertise to monitor outdoor air quality. 
+United States Environmental Protection Agency (USEPA) collects outdoor air quality data from state, local and tribal agencies through outdoor air quality monitors across the country. The data get collected into the Air 
+Quality System (AQS) database. This data can be used for variety of purposes such as education, research and regulatory. Data from this data--mart is available for different time--series: hourly, daily, weekly, monthly 
+and yearly. It gives us a real picture of outdoor air quality and measurements of pollutants present in the air in 
+a particular time period. The data can be used for comparing air quality among different regions, raise awareness to general public so that they can play a role in reducing household air pollutants, to see the trend of air pollutants at different time periods in a day or a season  and can also be combined with emissions data for comparative study. Data analysis of pollutants help identify pollution hot spots. Since, air quality is vital for public health and environmental health, air quality monitoring possess great significance.
      author: 
        - Janaki Mudvari Khatiwada
      chapter:   
      hid: 
        - 330
-     status: 20%  
+     status: 40%  
      title: Big Data Analytics in Monitoring Outdoor Air Quality
      type: latex
      url: https://github.com/bigdata-i523/hid330/project/report.tex
