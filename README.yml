@@ -62,9 +62,9 @@ project:
     chapter:   
     hid:
         - 330
-    status: 60%  
+    status: 75%  
     title: Big Data Analytics in Monitoring Outdoor Air Quality
-    dataSource: https://aqs.epa.gov/aqsweb/airdata/daily_aqi_by_cbsa_2017.zip
+    dataSource: https://aqs.epa.gov/aqsweb/airdata/daily_aqi_by_cbsa_2016.zip
     type: project
     url: https://github.com/bigdata-i523/hid330/project/report.tex
      
