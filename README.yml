@@ -43,8 +43,8 @@ paper2:
 project:
     review: Dec 6 2016
     abstract: >
-        Outdoor air pollution is one of the risk factors of public health. Air pollution adds burden to public 
-        health. Both developing and developed world use new technology and expertise to monitor outdoor air quality. 
+        Outdoor air pollution is one of the risk factors of public health. Air pollution adds burden to public
+        health. Both developing and developed world use new technology and expertise to monitor outdoor air quality.
         United States Environmental Protection Agency (USEPA) collects outdoor air quality data from state, local
         and tribal agencies through outdoor air quality monitors across the country. The data get collected into
         the Air Quality System (AQS) database. This data can be used for variety of purposes such as education,
@@ -56,7 +56,7 @@ project:
         be combined with emissions data for comparative study. Data analysis of pollutants help identify pollution hot
         spots. Since air quality is vital for public health and environmental health, air quality monitoring possesses
         great significance from public health perspective. It is worth looking at simple statistical values and level of
-        air quality index value for the pollutants described as criteria pollutants as described by World Health 
+        air quality index value for the pollutants described as criteria pollutants as described by World Health
         Organization. Simple statistical calculations in bigger datasets help understand the extent and source of problem.
         It helps in comparing past statistics with the present so helps in evaluations of action being taken during past
         periods. Looking at the overall mean value of criteria pollutants of 2016 and 2006 reveals improved air quality
@@ -67,7 +67,7 @@ project:
     chapter: Environment   
     hid:
         - 330
-    status: 100%  
+    status: 100%
     title: Big Data Analytics in Monitoring Outdoor Air Quality
     dataSource: https://aqs.epa.gov/aqsweb/airdata/daily_aqi_by_cbsa_2016.zip
     datasource2: https://aqs.epa.gov/aqsweb/airdata/daily_aqi_by_cbsa_2006.zip 
