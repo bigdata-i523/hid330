@@ -59,11 +59,12 @@ project:
         environmental health, air quality monitoring possesses great significance from public health
         perspective. It is worth looking at simple statistical values and level of air quality index value
         for the pollutants described as criteria pollutants as described by World Health Organization.
-        Simple statistical calculations in bigger datasets help understand the extent and source of problem.
-        It helps in comparing past statistics with the present so helps in evaluations of action being taken
-        during past periods. Looking at the overall mean value of criteria pollutants of 2016 and 2006
-        reveals improved air quality level to some extent for all core-based statistical areas. But the mean
-        value of carbon monoxide has significantly increased over the ten years period.
+        Simple statistical calculations in bigger datasets help understand the extent and source of
+        problem. It helps in comparing past statistics with the present so helps in evaluations of
+        action being taken during past periods. Looking at the overall mean value of criteria
+        pollutants of 2016 and 2006 reveals improved air quality level to some extent for all core-based
+        statistical areas. But the mean value of carbon monoxide has significantly increased over the
+        ten years period.
     author:
         - Janaki Mudvari Khatiwada
     chapter: Environment   
