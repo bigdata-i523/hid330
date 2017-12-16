@@ -16,7 +16,6 @@ paper1:
         - 330
     status: 100% Review date nov 1
     title: Big data in Improving Patient Care
-    type: paper
     url: https://github.com/bigdata-i523/hid330/paper1/report.pdf
 paper2:
     review: Nov 6 2017
@@ -38,7 +37,6 @@ paper2:
        - 330
     status: 100%
     title: "MQTT for Big Data and Edge Computing"
-    type: paper
     url: https://github.com/bigdata-i523/hid330/paper2/report.tex
 project:
     review: Dec 6 2016
